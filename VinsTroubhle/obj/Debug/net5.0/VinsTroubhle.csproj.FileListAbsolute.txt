@@ -1,0 +1,16 @@
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\bin\Debug\net5.0\VinsTroubhle.exe
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\bin\Debug\net5.0\VinsTroubhle.deps.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\bin\Debug\net5.0\VinsTroubhle.runtimeconfig.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\bin\Debug\net5.0\VinsTroubhle.runtimeconfig.dev.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\bin\Debug\net5.0\VinsTroubhle.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\bin\Debug\net5.0\ref\VinsTroubhle.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\bin\Debug\net5.0\VinsTroubhle.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\obj\Debug\net5.0\VinsTroubhle.csproj.AssemblyReference.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\obj\Debug\net5.0\VinsTroubhle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\obj\Debug\net5.0\VinsTroubhle.AssemblyInfoInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\obj\Debug\net5.0\VinsTroubhle.AssemblyInfo.cs
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\obj\Debug\net5.0\VinsTroubhle.csproj.CoreCompileInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\obj\Debug\net5.0\VinsTroubhle.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\obj\Debug\net5.0\ref\VinsTroubhle.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\obj\Debug\net5.0\VinsTroubhle.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\VinsTroubhle\obj\Debug\net5.0\VinsTroubhle.genruntimeconfig.cache

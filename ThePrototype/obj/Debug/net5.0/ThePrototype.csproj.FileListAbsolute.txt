@@ -1,0 +1,16 @@
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\bin\Debug\net5.0\ThePrototype.exe
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\bin\Debug\net5.0\ThePrototype.deps.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\bin\Debug\net5.0\ThePrototype.runtimeconfig.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\bin\Debug\net5.0\ThePrototype.runtimeconfig.dev.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\bin\Debug\net5.0\ThePrototype.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\bin\Debug\net5.0\ref\ThePrototype.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\bin\Debug\net5.0\ThePrototype.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\obj\Debug\net5.0\ThePrototype.csprojAssemblyReference.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\obj\Debug\net5.0\ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\obj\Debug\net5.0\ThePrototype.AssemblyInfoInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\obj\Debug\net5.0\ThePrototype.AssemblyInfo.cs
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\obj\Debug\net5.0\ThePrototype.csproj.CoreCompileInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\obj\Debug\net5.0\ThePrototype.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\obj\Debug\net5.0\ref\ThePrototype.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\obj\Debug\net5.0\ThePrototype.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePrototype\obj\Debug\net5.0\ThePrototype.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\bin\Debug\net5.0\WatchTower.exe
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\bin\Debug\net5.0\WatchTower.deps.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\bin\Debug\net5.0\WatchTower.runtimeconfig.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\bin\Debug\net5.0\WatchTower.runtimeconfig.dev.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\bin\Debug\net5.0\WatchTower.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\bin\Debug\net5.0\ref\WatchTower.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\bin\Debug\net5.0\WatchTower.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\obj\Debug\net5.0\WatchTower.csprojAssemblyReference.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\obj\Debug\net5.0\WatchTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\obj\Debug\net5.0\WatchTower.AssemblyInfoInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\obj\Debug\net5.0\WatchTower.AssemblyInfo.cs
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\obj\Debug\net5.0\WatchTower.csproj.CoreCompileInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\obj\Debug\net5.0\WatchTower.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\obj\Debug\net5.0\ref\WatchTower.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\obj\Debug\net5.0\WatchTower.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\WatchTower\obj\Debug\net5.0\WatchTower.genruntimeconfig.cache

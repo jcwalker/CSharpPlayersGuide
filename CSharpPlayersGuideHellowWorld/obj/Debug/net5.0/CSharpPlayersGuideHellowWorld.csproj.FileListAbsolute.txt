@@ -1,0 +1,16 @@
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\bin\Debug\net5.0\CSharpPlayersGuideHellowWorld.exe
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\bin\Debug\net5.0\CSharpPlayersGuideHellowWorld.deps.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\bin\Debug\net5.0\CSharpPlayersGuideHellowWorld.runtimeconfig.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\bin\Debug\net5.0\CSharpPlayersGuideHellowWorld.runtimeconfig.dev.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\bin\Debug\net5.0\CSharpPlayersGuideHellowWorld.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\bin\Debug\net5.0\ref\CSharpPlayersGuideHellowWorld.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\bin\Debug\net5.0\CSharpPlayersGuideHellowWorld.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\obj\Debug\net5.0\CSharpPlayersGuideHellowWorld.csprojAssemblyReference.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\obj\Debug\net5.0\CSharpPlayersGuideHellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\obj\Debug\net5.0\CSharpPlayersGuideHellowWorld.AssemblyInfoInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\obj\Debug\net5.0\CSharpPlayersGuideHellowWorld.AssemblyInfo.cs
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\obj\Debug\net5.0\CSharpPlayersGuideHellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\obj\Debug\net5.0\CSharpPlayersGuideHellowWorld.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\obj\Debug\net5.0\ref\CSharpPlayersGuideHellowWorld.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\obj\Debug\net5.0\CSharpPlayersGuideHellowWorld.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\CSharpPlayersGuideHellowWorld\obj\Debug\net5.0\CSharpPlayersGuideHellowWorld.genruntimeconfig.cache

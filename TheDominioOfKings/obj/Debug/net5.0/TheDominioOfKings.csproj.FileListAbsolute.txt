@@ -1,0 +1,16 @@
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\bin\Debug\net5.0\TheDominioOfKings.exe
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\bin\Debug\net5.0\TheDominioOfKings.deps.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\bin\Debug\net5.0\TheDominioOfKings.runtimeconfig.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\bin\Debug\net5.0\TheDominioOfKings.runtimeconfig.dev.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\bin\Debug\net5.0\TheDominioOfKings.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\bin\Debug\net5.0\ref\TheDominioOfKings.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\bin\Debug\net5.0\TheDominioOfKings.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\obj\Debug\net5.0\TheDominioOfKings.csprojAssemblyReference.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\obj\Debug\net5.0\TheDominioOfKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\obj\Debug\net5.0\TheDominioOfKings.AssemblyInfoInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\obj\Debug\net5.0\TheDominioOfKings.AssemblyInfo.cs
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\obj\Debug\net5.0\TheDominioOfKings.csproj.CoreCompileInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\obj\Debug\net5.0\TheDominioOfKings.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\obj\Debug\net5.0\ref\TheDominioOfKings.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\obj\Debug\net5.0\TheDominioOfKings.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheDominioOfKings\obj\Debug\net5.0\TheDominioOfKings.genruntimeconfig.cache

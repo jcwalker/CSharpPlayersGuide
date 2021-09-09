@@ -1,0 +1,15 @@
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.exe
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.deps.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.runtimeconfig.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.runtimeconfig.dev.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\bin\Debug\net5.0\ref\TheTriangleFarmer.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\bin\Debug\net5.0\TheTriangleFarmer.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.AssemblyInfoInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.AssemblyInfo.cs
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.csproj.CoreCompileInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\obj\Debug\net5.0\ref\TheTriangleFarmer.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheTriangleFarmer\obj\Debug\net5.0\TheTriangleFarmer.genruntimeconfig.cache

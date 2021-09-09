@@ -1,0 +1,16 @@
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\bin\Debug\net5.0\ThePropertiesOfArrows.exe
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\bin\Debug\net5.0\ThePropertiesOfArrows.deps.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\bin\Debug\net5.0\ThePropertiesOfArrows.runtimeconfig.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\bin\Debug\net5.0\ThePropertiesOfArrows.runtimeconfig.dev.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\bin\Debug\net5.0\ThePropertiesOfArrows.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\bin\Debug\net5.0\ref\ThePropertiesOfArrows.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\bin\Debug\net5.0\ThePropertiesOfArrows.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\obj\Debug\net5.0\ThePropertiesOfArrows.csproj.AssemblyReference.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\obj\Debug\net5.0\ThePropertiesOfArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\obj\Debug\net5.0\ThePropertiesOfArrows.AssemblyInfoInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\obj\Debug\net5.0\ThePropertiesOfArrows.AssemblyInfo.cs
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\obj\Debug\net5.0\ThePropertiesOfArrows.csproj.CoreCompileInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\obj\Debug\net5.0\ThePropertiesOfArrows.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\obj\Debug\net5.0\ref\ThePropertiesOfArrows.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\obj\Debug\net5.0\ThePropertiesOfArrows.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ThePropertiesOfArrows\obj\Debug\net5.0\ThePropertiesOfArrows.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\bin\Debug\net5.0\Countdown.exe
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\bin\Debug\net5.0\Countdown.deps.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\bin\Debug\net5.0\Countdown.runtimeconfig.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\bin\Debug\net5.0\Countdown.runtimeconfig.dev.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\bin\Debug\net5.0\Countdown.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\bin\Debug\net5.0\ref\Countdown.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\bin\Debug\net5.0\Countdown.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\obj\Debug\net5.0\Countdown.csproj.AssemblyReference.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\obj\Debug\net5.0\Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\obj\Debug\net5.0\Countdown.AssemblyInfoInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\obj\Debug\net5.0\Countdown.AssemblyInfo.cs
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\obj\Debug\net5.0\Countdown.csproj.CoreCompileInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\obj\Debug\net5.0\Countdown.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\obj\Debug\net5.0\ref\Countdown.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\obj\Debug\net5.0\Countdown.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\Countdown\obj\Debug\net5.0\Countdown.genruntimeconfig.cache

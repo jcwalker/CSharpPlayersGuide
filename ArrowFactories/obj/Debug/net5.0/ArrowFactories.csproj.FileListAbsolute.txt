@@ -1,0 +1,16 @@
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\bin\Debug\net5.0\ArrowFactories.exe
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\bin\Debug\net5.0\ArrowFactories.deps.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\bin\Debug\net5.0\ArrowFactories.runtimeconfig.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\bin\Debug\net5.0\ArrowFactories.runtimeconfig.dev.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\bin\Debug\net5.0\ArrowFactories.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\bin\Debug\net5.0\ref\ArrowFactories.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\bin\Debug\net5.0\ArrowFactories.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\obj\Debug\net5.0\ArrowFactories.csproj.AssemblyReference.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\obj\Debug\net5.0\ArrowFactories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\obj\Debug\net5.0\ArrowFactories.AssemblyInfoInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\obj\Debug\net5.0\ArrowFactories.AssemblyInfo.cs
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\obj\Debug\net5.0\ArrowFactories.csproj.CoreCompileInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\obj\Debug\net5.0\ArrowFactories.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\obj\Debug\net5.0\ref\ArrowFactories.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\obj\Debug\net5.0\ArrowFactories.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ArrowFactories\obj\Debug\net5.0\ArrowFactories.genruntimeconfig.cache

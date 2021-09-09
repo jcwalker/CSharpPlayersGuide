@@ -1,0 +1,16 @@
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\bin\Debug\net5.0\ReplicatorOfDto.exe
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\bin\Debug\net5.0\ReplicatorOfDto.deps.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\bin\Debug\net5.0\ReplicatorOfDto.runtimeconfig.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\bin\Debug\net5.0\ReplicatorOfDto.runtimeconfig.dev.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\bin\Debug\net5.0\ReplicatorOfDto.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\bin\Debug\net5.0\ref\ReplicatorOfDto.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\bin\Debug\net5.0\ReplicatorOfDto.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\obj\Debug\net5.0\ReplicatorOfDto.csprojAssemblyReference.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\obj\Debug\net5.0\ReplicatorOfDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\obj\Debug\net5.0\ReplicatorOfDto.AssemblyInfoInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\obj\Debug\net5.0\ReplicatorOfDto.AssemblyInfo.cs
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\obj\Debug\net5.0\ReplicatorOfDto.csproj.CoreCompileInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\obj\Debug\net5.0\ReplicatorOfDto.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\obj\Debug\net5.0\ref\ReplicatorOfDto.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\obj\Debug\net5.0\ReplicatorOfDto.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\ReplicatorOfDto\obj\Debug\net5.0\ReplicatorOfDto.genruntimeconfig.cache

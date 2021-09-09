@@ -1,0 +1,16 @@
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\bin\Debug\net5.0\DiscountedInvetory.exe
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\bin\Debug\net5.0\DiscountedInvetory.deps.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\bin\Debug\net5.0\DiscountedInvetory.runtimeconfig.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\bin\Debug\net5.0\DiscountedInvetory.runtimeconfig.dev.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\bin\Debug\net5.0\DiscountedInvetory.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\bin\Debug\net5.0\ref\DiscountedInvetory.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\bin\Debug\net5.0\DiscountedInvetory.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\obj\Debug\net5.0\DiscountedInvetory.csprojAssemblyReference.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\obj\Debug\net5.0\DiscountedInvetory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\obj\Debug\net5.0\DiscountedInvetory.AssemblyInfoInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\obj\Debug\net5.0\DiscountedInvetory.AssemblyInfo.cs
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\obj\Debug\net5.0\DiscountedInvetory.csproj.CoreCompileInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\obj\Debug\net5.0\DiscountedInvetory.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\obj\Debug\net5.0\ref\DiscountedInvetory.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\obj\Debug\net5.0\DiscountedInvetory.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\DiscountedInvetory\obj\Debug\net5.0\DiscountedInvetory.genruntimeconfig.cache

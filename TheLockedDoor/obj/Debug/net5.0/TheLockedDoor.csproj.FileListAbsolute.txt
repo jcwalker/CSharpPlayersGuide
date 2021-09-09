@@ -1,0 +1,16 @@
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\bin\Debug\net5.0\TheLockedDoor.exe
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\bin\Debug\net5.0\TheLockedDoor.deps.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\bin\Debug\net5.0\TheLockedDoor.runtimeconfig.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\bin\Debug\net5.0\TheLockedDoor.runtimeconfig.dev.json
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\bin\Debug\net5.0\TheLockedDoor.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\bin\Debug\net5.0\ref\TheLockedDoor.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\bin\Debug\net5.0\TheLockedDoor.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net5.0\TheLockedDoor.csproj.AssemblyReference.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net5.0\TheLockedDoor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net5.0\TheLockedDoor.AssemblyInfoInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net5.0\TheLockedDoor.AssemblyInfo.cs
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net5.0\TheLockedDoor.csproj.CoreCompileInputs.cache
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net5.0\TheLockedDoor.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net5.0\ref\TheLockedDoor.dll
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net5.0\TheLockedDoor.pdb
+C:\Users\jay-w\source\repos\CSharpPlayersGuide\TheLockedDoor\obj\Debug\net5.0\TheLockedDoor.genruntimeconfig.cache

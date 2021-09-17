@@ -2,27 +2,36 @@
 using System.Collections.Generic;
 
 Robot myRobot = new Robot();
+List<RobotCommand> commands = new List<RobotCommand>();
+bool doneWithCommands = false;
 
-Console.WriteLine("Enter 3 commands for the robot, On, Off, North, South, East, Or West: ");
+Console.WriteLine("Enter commands (as many as you want) for the robot, On, Off, North, South, East, Or West. ");
+Console.WriteLine("When you are done type stop");
 
-RobotCommand[] commands = new RobotCommand[3];
 
-for (int i = 0; i <= 2; i++)
+while (!doneWithCommands)
 {
-    Console.Write($"Command {i +1} ");
+    Console.Write("Command: ");
     var command = Console.ReadLine().ToLower();
 
-    RobotCommand commandToAdd = command switch
+    if (command == "stop")
     {
-        "on"    => new OnCommand(),
-        "off"   => new OffCommand(),
-        "north" => new NorthCommand(),
-        "south" => new SouthCommand(),
-        "east"  => new EastCommand(),
-        "west"  => new WestCommond()
-    };
+        doneWithCommands = true;
+    }
+    else
+    {
+        RobotCommand commandToAdd = command switch
+        {
+            "on" => new OnCommand(),
+            "off" => new OffCommand(),
+            "north" => new NorthCommand(),
+            "south" => new SouthCommand(),
+            "east" => new EastCommand(),
+            "west" => new WestCommond()
+        };
 
-    myRobot.Commands[i] = commandToAdd;
+        myRobot.Commands.Add(commandToAdd);
+    }
  }
 
 
@@ -33,7 +42,7 @@ public class Robot
     public int X { get; set; }
     public int Y { get; set; }
     public bool IsPowered { get; set; }
-    public RobotCommand[] Commands { get; } = new RobotCommand[3];
+    public List<RobotCommand> Commands { get; } = new List<RobotCommand>();
 
     public void Run()
     {

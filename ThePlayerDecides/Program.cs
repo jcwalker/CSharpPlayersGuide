@@ -165,32 +165,6 @@ public class Game
     public bool IsOver => Heroes.Characters.Count == 0 || Monsters.Characters.Count == 0;
 }
 
-public class AttackAction : IAction
-{
-    private readonly IAttack attack;
-    private readonly Character target;
-
-    public AttackAction(IAttack attack, Character target)
-    {
-        this.attack = attack;
-        this.target = target;
-    }
-
-    public void Run(Game game, Character character)
-    {
-        this.target.TakeDamage(this.attack.HP);
-        Console.WriteLine($"{character.Name} used {this.attack.Name} on {this.target.Name}");
-        Console.WriteLine($"{this.attack.Name} dealt {this.attack.HP} damage to {this.target.Name}.");
-        Console.WriteLine($"{this.target.Name} is now at {this.target.HP}/{this.target.StartingHP} HP.");
-
-        if (this.target.HP == 0)
-        {
-            game.GetPartyForCharacter(this.target).Characters.Remove(this.target);
-            Console.WriteLine($"{this.target.Name} was defeated!");
-        }
-    }
-}
-
 public class Party
 {
     public List<Character> Characters { get; } = new List<Character>();
@@ -265,6 +239,31 @@ public interface IAction
     void Run(Game game, Character character);
 }
 
+public class AttackAction : IAction
+{
+    private readonly IAttack attack;
+    private readonly Character target;
+
+    public AttackAction(IAttack attack, Character target)
+    {
+        this.attack = attack;
+        this.target = target;
+    }
+
+    public void Run(Game game, Character character)
+    {
+        this.target.TakeDamage(this.attack.HP);
+        Console.WriteLine($"{character.Name} used {this.attack.Name} on {this.target.Name}");
+        Console.WriteLine($"{this.attack.Name} dealt {this.attack.HP} damage to {this.target.Name}.");
+        Console.WriteLine($"{this.target.Name} is now at {this.target.HP}/{this.target.StartingHP} HP.");
+
+        if (this.target.HP == 0)
+        {
+            game.GetPartyForCharacter(this.target).Characters.Remove(this.target);
+            Console.WriteLine($"{this.target.Name} was defeated!");
+        }
+    }
+}
 public class DoNothing : IAction
 {
     public void Run(Game game, Character character)
@@ -315,8 +314,17 @@ public class HumanPlayer : IPlayer
     public IAction ChooseAction(Game game, Character character)
     {
         Thread.Sleep(500);
+        Console.WriteLine($"1 - Standard Attack ({character.StandardAttack.Name})");
+        Console.WriteLine("2 - Do Nothing");
+        Console.Write("What do you want to do? ");
+        var choice = Console.ReadLine().ToString();
+
         List<Character> potentialTargets = game.GetPartyForEnemyCharacter(character).Characters;
-        if (potentialTargets.Count > 0) return new AttackAction(character.StandardAttack, game.GetPartyForEnemyCharacter(character).Characters[0]);
+        if (potentialTargets.Count > 0 && choice == "1")
+        {
+            return new AttackAction(character.StandardAttack, game.GetPartyForEnemyCharacter(character).Characters[0]);
+        }
+
         return new DoNothing();
     }
 
@@ -326,7 +334,6 @@ public class HumanPlayer : IPlayer
         string playerName = Console.ReadLine().ToString();
 
         Name = playerName;
-
     }
 }
 
@@ -336,13 +343,25 @@ public record MenuItem
     public bool IsEnabled { get; }
     public IAction ActionToPerform { get; }
 
+    MenuItem(string description, bool isEnabled, IAction action)
+    {
+        Description = description;
+        IsEnabled = isEnabled;
+        ActionToPerform = action;
+    }
     public static void GetAction()
     {
+        List<MenuItem> results = new List<MenuItem>();
         var type = typeof(IAction);
         var types = AppDomain.CurrentDomain.GetAssemblies()
             .SelectMany(s => s.GetTypes())
             .Where(p => type.IsAssignableFrom(p) && !p.IsInterface);
 
+        foreach (object t in types)
+        {
+            //results.Add(new MenuItem(t.Name, true, t);
+
+        }
        // return types;
     }
 }
